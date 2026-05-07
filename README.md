@@ -2,6 +2,8 @@
   <img src="./assets/header.svg" alt="nickihysterics profile header" width="100%" />
 </p>
 
+<!-- profile-readme-refresh: 2026-05-07 -->
+
 <p align="center">
   <a href="https://github.com/nickihysterics">
     <img src="https://komarev.com/ghpvc/?username=nickihysterics&style=for-the-badge&label=profile%20views&color=0f766e" alt="profile views" />
