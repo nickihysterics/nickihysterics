@@ -1,0 +1,69 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">nickihysterics profile header</title>
+  <desc id="desc">A control-room style GitHub profile banner for nickihysterics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07110F"/>
+      <stop offset="0.48" stop-color="#0B1B1A"/>
+      <stop offset="1" stop-color="#17120B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="118" y1="81" x2="1018" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.722 0 0 0 0 0.651 0 0 0 0.58 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#163B38" stroke-width="1" opacity="0.38"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M0 303C171 268 265 286 406 303C571 323 687 338 855 300C983 271 1089 252 1200 271V360H0V303Z" fill="#0F211F" opacity="0.82"/>
+  <path d="M80 278C224 235 350 248 463 273C593 302 704 307 833 262C947 222 1057 214 1132 226" stroke="url(#accent)" stroke-width="3" opacity="0.75"/>
+
+  <g opacity="0.9">
+    <rect x="68" y="50" width="1064" height="260" rx="24" fill="#07110F" fill-opacity="0.72" stroke="#1F3F39"/>
+    <rect x="96" y="78" width="118" height="8" rx="4" fill="#14B8A6"/>
+    <rect x="226" y="78" width="62" height="8" rx="4" fill="#F97316" opacity="0.86"/>
+    <rect x="300" y="78" width="42" height="8" rx="4" fill="#38BDF8" opacity="0.78"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="96" y="158" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="0">nickihysterics</text>
+  </g>
+  <text x="100" y="204" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Python systems / automation / applied computer vision</text>
+  <text x="100" y="242" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="18">Django + FastAPI + Qt + OpenCV + Docker</text>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">
+    <rect x="804" y="92" width="244" height="40" rx="12" fill="#0F2824" stroke="#23564E"/>
+    <circle cx="828" cy="112" r="6" fill="#14B8A6"/>
+    <text x="846" y="117" fill="#E2E8F0">workflow-first apps</text>
+
+    <rect x="804" y="146" width="244" height="40" rx="12" fill="#1F1B12" stroke="#5A3B1B"/>
+    <circle cx="828" cy="166" r="6" fill="#F97316"/>
+    <text x="846" y="171" fill="#E2E8F0">production-minded</text>
+
+    <rect x="804" y="200" width="244" height="40" rx="12" fill="#0B2231" stroke="#1E4A61"/>
+    <circle cx="828" cy="220" r="6" fill="#38BDF8"/>
+    <text x="846" y="225" fill="#E2E8F0">Tyumen / UTC+5</text>
+  </g>
+
+  <g opacity="0.82">
+    <path d="M108 284H388" stroke="#2DD4BF" stroke-width="2"/>
+    <path d="M108 284L132 260H202L224 238H285" stroke="#2DD4BF" stroke-width="2"/>
+    <circle cx="132" cy="260" r="4" fill="#2DD4BF"/>
+    <circle cx="224" cy="238" r="4" fill="#2DD4BF"/>
+    <circle cx="285" cy="238" r="4" fill="#2DD4BF"/>
+    <path d="M400 284H710" stroke="#FB923C" stroke-width="2"/>
+    <path d="M520 284L546 258H610L638 230H710" stroke="#FB923C" stroke-width="2"/>
+    <circle cx="546" cy="258" r="4" fill="#FB923C"/>
+    <circle cx="638" cy="230" r="4" fill="#FB923C"/>
+    <circle cx="710" cy="230" r="4" fill="#FB923C"/>
+  </g>
+</svg>
