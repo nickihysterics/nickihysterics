@@ -8,17 +8,19 @@
   <a href="https://itunity.dev/">ITUnity</a>
   &nbsp;·&nbsp;
   <a href="https://t.me/general_itu">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="https://nickihysterics.ru/">Музыка</a>
 </p>
 
 <br>
 
 ## обо мне
 
-Я — **Никита Мусин**. Разработчик, директор ITU и музыкант.
+Я — **Никита Мусин**. Разработчик и директор ITU.
 
 Проектирую цифровые продукты целиком: разбираюсь в задаче, собираю архитектуру и интерфейс, пишу код, запускаю и продолжаю развивать систему после релиза.
+
+<p align="center">
+  <img src="./assets/capabilities.png" width="100%" alt="Архитектура, разработка и запуск цифровых продуктов">
+</p>
 
 ## ITU
 
@@ -26,27 +28,18 @@
 
 [Открыть itunity.dev ↗](https://itunity.dev/)
 
-## подход
-
-**01 / Сначала задача**<br>
-Технология имеет смысл только тогда, когда решает реальную проблему.
-
-**02 / Одна система**<br>
-Дизайн, код, контент и инфраструктура должны работать как единое целое.
-
-**03 / После запуска**<br>
-Релиз — не финал. Хороший продукт выдерживает изменения и становится сильнее со временем.
-
 ## технологии
 
-`Python` · `Django` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `JavaScript` · `WebGL` · `Linux`
+<p align="center">
+  <img src="./assets/stack.png" width="100%" alt="Python, Django, FastAPI, PostgreSQL, Redis, Celery, JavaScript, WebGL, Docker и Linux">
+</p>
 
 ## на связи
 
 По вопросам разработки и сотрудничества — [Telegram](https://t.me/general_itu) или [itunity.dev](https://itunity.dev/).
 
-<br>
-
 <p align="center">
-  <sub>Тюмень · Россия · UTC+5</sub>
+  <a href="https://itunity.dev/#contact">
+    <img src="./assets/contact.png" width="100%" alt="Обсудим задачу — Telegram и ITUnity">
+  </a>
 </p>
